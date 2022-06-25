@@ -152,11 +152,17 @@ h2{
     font-weight: 700;
 }
 
-
-
-
 footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #1f2937;
+    color: #E5E7EB;
+}
+
+footer a{
+    color: #3882F6;
+    font-size: 18px;
 }
 
 
